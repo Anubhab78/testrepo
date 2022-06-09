@@ -1,5 +1,5 @@
 name: closet-server startup
-on: 
+on:
   push:
     branches:
       - demo
